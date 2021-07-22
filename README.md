@@ -1,7 +1,7 @@
 # Pengalaman-Belajar
 Repository ini berisi pengalaman belajarku di Dicoding
 
-Minggu 1 (31 Mei 2021 - 4 Juni 2021)
+**Minggu 1 (31 Mei 2021 - 4 Juni 2021)**
 
 Memulai Pemrograman dengan Python
   * Persiapan belajar, Pendahuluan, Dasar Python, Tipe Data pada Python
@@ -11,7 +11,7 @@ Memulai Pemrograman dengan Python
   * Unit Testing, Library Populer pada Python
   * Exam Kelas Memulai Pemrograman dengan Python.
  
-Minggu 2 (7 Juni 2021 - 11 Juni 2021)
+**Minggu 2 (7 Juni 2021 - 11 Juni 2021)**
 
 Data Analysis With Python at Skillsbuild
  * Introduction
@@ -21,10 +21,11 @@ Data Analysis With Python at Skillsbuild
  * Model Evaluation
  * Exam Kelas Data Analysis With Python
  
-Minggu 3 (14 Juni 2021 - 18 Juni 2021)
+**Minggu 3 (14 Juni 2021 - 18 Juni 2021)**
 
 Belajar Dasar Visualisasi Data at Dicoding
-Data Visualization with Python ar Skillsbuild
+
+Data Visualization with Python at Skillsbuild
  * Persiapan belajar, Pendahuluan, Persiapan Data Pra-Visualisasi
  * Transformasi data ke visual, Exam Kelas belajar Dasar Visualisasi Data
  * Introduction to Visualization tools, Basic Visualization tools
