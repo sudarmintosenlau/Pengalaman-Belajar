@@ -31,3 +31,46 @@ Data Visualization with Python at Skillsbuild
  * Introduction to Visualization tools, Basic Visualization tools
  * Specialized Visualization tools, Advanced Visualization tools
  * Creating Maps and Visualizing Geospatial Data, Final Exam
+ 
+**Minggu 4 (21 Juni 2021 - 25 Juni 2021)**
+
+Introduction to AI at The University of Helsinki Finlandia
+  * What is AI?, AI Problem Solving
+  * Real World AI
+  * Machine Learning
+  * Neural Network
+  * Implications
+
+**Minggu 5 (28 Juni 2021 - 2 Juli 2021)**
+
+Belajar Machine Learning Untuk Pemula at Dicoding
+ * Persiapan Belajar, Pengenalan data
+ * Supervised dan Unsupervised Learning
+ * Suport Vektor Machine (SVM), Dasar-dasar Machine Learning
+ * Neural Network, Tensorflow
+ * Submission Akhir kelas Belajar Machine Learning Untuk Pemula
+
+**Minggu 6 (5 Juli 2021 - 9 Juli 2021)**
+
+Belajar Pengembangan Machine Learning
+ * Persiapan Belajar, Problem Framming
+ * Membuat dan Melatih Model Neural Network dengan Tensorflow dan Keras
+ * Sistem Rekomendasi, Klasifikasi Gambar
+ * Natural Languange Processing(NLP) dengan Tensorflow
+ * Proyek Submission Membuat Model NLP dengan Tensorflow
+
+**Minggu 7 (12 Juli 2021 - 16 Juli 2021)**
+
+Belajar Pengembangan Machine Learning
+ * Time Series
+ * Proyek Submission Membuat Model Machine Learning dengan Data Time Series
+ * Reinforcement Learning, Deployment
+ * Proyek Submission Image Classification Model Deployment
+
+
+
+
+
+
+
+
